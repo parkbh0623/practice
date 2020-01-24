@@ -10,8 +10,7 @@ public class HELLO {
 	
 		System.out.println("repractice");
 		System.out.println("repractice2");
-		System.out.println("rep");
-
+		System.out.println("why");
 	}
 
 }
