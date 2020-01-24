@@ -10,7 +10,10 @@ public class HELLO {
 	
 		System.out.println("repractice");
 		System.out.println("repractice2");
-		System.out.println("when");
+
+		System.out.println("why");
+		System.out.println("d");
+
 	}
 
 }
