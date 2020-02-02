@@ -9,6 +9,8 @@ public class HELLO {
 
 	
 	System.out.println("when");
+	
+	System.out.println("last last");
 	}
 
 }
